@@ -1,6 +1,6 @@
 ### @whilei notes and latest states:
 
-- github.com/whilei/go-ethereum/tree/dev/evm-svm
+- [http://github.com/whilei/go-ethereum/tree/dev/evm-svm](http://github.com/whilei/go-ethereum/tree/dev/evm-svm)
 
 ```shell
 $ cd go-ethereum
