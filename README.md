@@ -63,6 +63,24 @@ stack: frame={sp:0x7ffec14868d0, fp:0x0} stack=[0x7ffec0c88888,0x7ffec14878b0)
 00007ffec14867f0:  0000000000000000  0000000000000020
 00007ffec1486800:  00007ffec14867ec  00007ffec14867eb
 00007ffec1486810:  00007ffec1486828  00000000008c60d7
+
+[...]
+
+00007fff80bfbfd0:  ffffffffffffffff  ffffffffffffffff
+00007fff80bfbfe0:  ffffffffffffffff  ffffffffffffffff
+00007fff80bfbff0:  ffffffffffffffff  ffffffffffffffff
+00007fff80bfc000:  ffffffffffffffff  ffffffffffffffff
+00007fff80bfc010:  ffffffffffffffff  ffffffffffffffff
+runtime: unknown pc 0x7f2da65e9e97
+stack: frame={sp:0x7fff80bfbf20, fp:0x0} stack=[0x7fff803fe078,0x7fff80bfd0a0)
+00007fff80bfbe20:  0000000000bb3008  00000000008d7637
+00007fff80bfbe30:  0000000000000000  0011000000bc52cc
+00007fff80bfbe40:  0000000000000000  0000000000000020
+00007fff80bfbe50:  00007fff80bfbe3c  00007fff80bfbe3b
+00007fff80bfbe60:  0000000001115c48  0000000000000001
+00007fff80bfbe70:  0000000000bb3008  0000000000000001
+00007fff80bfbe80:  00007fff80bfc1e8  0000000000000001
+
 ```
 
 ----
