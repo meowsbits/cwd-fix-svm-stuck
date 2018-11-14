@@ -37,7 +37,7 @@ $ echo -n "0x1801fbe59dcf188896879af2cdd88d9692e37c0000000000cd1f836eba8aa0d3271
 00000043: INVALID
 ```
 
-Exported RLP/binary-encoded block for -1..+1 of blocks in question are in [./rlps](./rlps).
+Exported RLP/binary-encoded block for -1..+1 of blocks in question are in [./exported-blocks](./exported-blocks).
 
 Example number `2` failed import happened for me around 20181113-09:47 (for reference looking thru my logs).
 
